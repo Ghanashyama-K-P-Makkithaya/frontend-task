@@ -1,4 +1,4 @@
-import MenuItems from "./MenuItems";
+import MenuItems from "./MenuItems.jsx";
 const Dropdown = ({
     submenus,
     dropdown,
