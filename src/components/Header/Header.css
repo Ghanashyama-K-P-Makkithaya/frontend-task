@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --theme-red-bg: #F0394D;
+    --theme-red-text: #FFFFFF;
+}
+.logo-rounded{
+    font-size: 15px;
+    background-color: var(--theme-red-bg);
+    color: var(--theme-red-text);
+    text-align: center;
+    height: 60px;
+    width: 60px;
+    vertical-align: middle;
+    border-radius: 50%;
+}
